@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- 1 tbsp light ranch seasoning
 
 Instructions:
 1. Preheat grill to medium-high heat.
