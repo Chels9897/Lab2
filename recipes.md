@@ -113,3 +113,18 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Leche Flan
+
+Ingredients:
+- 6 eggs
+- 1 cup of milk
+- 1 cup condense milk
+- 2 cups of grnaulated sugar
+
+Instructions:
+1. seperated egg yolks into a bowl
+2. add milk and condense milk
+3. add sugar
+4. steam mixture for 20-25 mins 
+5. cool before serving
